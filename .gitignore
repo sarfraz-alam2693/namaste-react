@@ -1,0 +1,23 @@
+# node_modules
+node_modules/
+.gitignore/
+dist/
+.parcel-cache
+
+# parcel
+- Dev build 
+- Local Server
+- HMR Hot Module Replacement
+- File Watching Algorithm - written in c++
+- Caching - Faster Builds  
+- Image Opitimization
+- Minification 
+- Bundling
+- Compress
+- Consistent Hashing    
+- coe splitting
+- Diffrential Bundling - support older browser
+- Diagnostic    
+- Error Handling
+- HTTPs
+- Tree Shaking - remove unused code 
